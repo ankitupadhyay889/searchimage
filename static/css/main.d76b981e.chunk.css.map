@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,iBACJ,CAEA,WACI,iBACJ","file":"main.d76b981e.chunk.css","sourcesContent":[".App{\r\n    text-align: center;\r\n}\r\n\r\n.container{\r\n    border-radius: 2px;\r\n}"]}
